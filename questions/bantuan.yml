@@ -34,3 +34,8 @@ tree:
     segue1: Tukang ngobrol? Sama dong
     segue2: Biasanya ngobrol di mana ya?
     children: includes/bantuan/chat.yml
+
+  - title: Saya sudah paham
+    subtitle: Saya ingin berkontribusi lebih lanjud
+    image: https://badges.fedoraproject.org/pngs/design-team.png
+    children: includes/bantuan/kontribusi.yml
