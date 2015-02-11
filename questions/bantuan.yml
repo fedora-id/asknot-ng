@@ -1,0 +1,36 @@
+title: Cari bantuan tentang Fedora di mana ya?
+negatives:
+  - "Enggak"
+  - "Hmm, yang lain ada tidak"
+  - "Tidak"
+  - "Wah, jangan deh"
+  - "Yang benar saja"
+affirmatives:
+  - "Nah ini"
+  - "OK deh"
+  - "Ya"
+backlinks:
+  - "Coba lihat yang sebelumnya"
+  - "Hmm, yang tadi apa ya"
+
+navlinks:
+  - name: Bantuan
+    link: "javascript:reloadHome();"
+  - name: Unduh Fedora
+    link: https://getfedora.org
+
+tree:
+  segue1: Perlu bantuan tentang Fedora? Tolong pilih...
+  segue2: Biasanya Anda berkomunikasi lewat apa?
+  children:
+  - title: Email
+    subtitle: suka nulis surat
+    image: https://badges.fedoraproject.org/pngs/design-team.png
+    href: https://admin.fedoraproject.org/mailman/listinfo/id-community
+
+  - title: Chatting
+    subtitle: anak gaul
+    image: https://badges.fedoraproject.org/pngs/fas-trust-me-i-know-what-i-am-doing.png
+    segue1: Tukang ngobrol? Sama dong
+    segue2: Biasanya ngobrol di mana ya?
+    children: includes/bantuan/chat.yml

@@ -1,0 +1,11 @@
+tree:
+  children:
+    - title: IRC
+      subtitle: ngobrol gaya old-school
+      href: irc://irc.freenode.net/fedora-id
+    - title: Facebook
+      subtitle: semua orang ada di sini sih
+      href: https://www.facebook.com/groups/id.fedoracommunity/
+    - title: Google+
+      subtitle: untuk yang nge-fans sama mbah Google
+      href: https://plus.google.com/communities/113349194245780577336
