@@ -1,0 +1,8 @@
+tree:
+  children:
+    - title: WIKI
+      subtitle: Cek wiki kami dong
+      href: https://fedoraproject.org/wiki/Fedora_Project_Wiki/id
+    - title: Milis
+      subtitle: Atau tanya - tanya di sini
+      href: https://admin.fedoraproject.org/mailman/listinfo/id-community

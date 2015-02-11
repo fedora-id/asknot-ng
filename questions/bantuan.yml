@@ -23,10 +23,10 @@ tree:
   segue1: Perlu bantuan tentang Fedora? Tolong pilih...
   segue2: Biasanya Anda berkomunikasi lewat apa?
   children:
-  - title: Email
-    subtitle: suka nulis surat
+  - title: Bingung
+    subtitle: Saya ingin baca-baca dulu
     image: https://badges.fedoraproject.org/pngs/design-team.png
-    href: https://admin.fedoraproject.org/mailman/listinfo/id-community
+    children: includes/bantuan/umum.yml
 
   - title: Chatting
     subtitle: anak gaul
