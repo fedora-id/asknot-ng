@@ -23,7 +23,7 @@ tree:
   segue1: Perlu bantuan tentang Fedora? Tolong pilih...
   segue2: Biasanya Anda berkomunikasi lewat apa?
   children:
-  - title: Bingung
+  - title: Bingung nih
     subtitle: Saya ingin baca-baca dulu
     image: https://badges.fedoraproject.org/pngs/design-team.png
     children: includes/bantuan/umum.yml
