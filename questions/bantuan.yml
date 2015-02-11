@@ -36,6 +36,6 @@ tree:
     children: includes/bantuan/chat.yml
 
   - title: Saya sudah paham
-    subtitle: Saya ingin berkontribusi lebih lanjud
+    subtitle: Saya ingin berkontribusi lebih lanjut
     image: https://badges.fedoraproject.org/pngs/design-team.png
     children: includes/bantuan/kontribusi.yml
