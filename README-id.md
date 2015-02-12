@@ -20,17 +20,9 @@ terdiri dari tiga hal:
 
 Untuk melihat hasil program ini, bisa melihat [situs versi Fedora][wcidff].
 
-## Contributing / Kontribusi
+## Kontribusi
 
-* [Fork and pull request guide][patches]
-
-To ease the development workflow, it's advisable to create a feature
-branch based on the `develop-id` branch, and submit a pull request
-when you are ready. Rebase often to make sure your work can be merged
-easily!
-
-### Dalam Bahasa Indonesia
-
+* [Belajar pakai Git dan GitHub][github-help]
 * [Pedoman forking dan pull request][patches]
 
 Untuk mempermudah alur kerja, disarankan membuat feature branch yang
@@ -65,6 +57,7 @@ $ xdg-open asknot.html
 [example-questions]: https://github.com/fedora-infra/asknot-ng/blob/develop/questions/example.yml
 [fedora-questions]: https://github.com/fedora-infra/asknot-ng/blob/develop/questions/fedora.yml
 [default-template]: https://github.com/fedora-infra/asknot-ng/blob/develop/templates/index.html
+[github-help]: https://help.github.com/articles/good-resources-for-learning-git-and-github/
 [requirements]: https://github.com/fedora-infra/asknot-ng/blob/develop/requirements.txt
 [patches]: https://help.github.com/articles/editing-files-in-another-user-s-repository/
 [wcidfm]: http://whatcanidoformozilla.org
