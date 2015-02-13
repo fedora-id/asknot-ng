@@ -3,3 +3,12 @@ tree:
     - title: Penerjemah
       subtitle: Saya ingin menjadi penerjemah
       href: https://fedoraproject.org/wiki/L10N_Indonesian_Team
+    - title: Ambassador
+      subtitle: Saya ingin ikut mempromosikan fedora kemasyarakat
+      href: https://fedoraproject.org/wiki/Ambassadors
+    - title: Mirroring
+      subtitle: Saya ingin membuat server repo sendiri
+      href: https://fedoraproject.org/wiki/Infrastructure/Mirroring
+    - title: Donasi
+      subtitle: Saya ingin berdonasi saja lewat FreeMedia
+      href: https://fedoraproject.org/wiki/Archive:Distribution/FreeMedia/Donation?rd=Distribution/FreeMedia/Donation
